@@ -6,10 +6,6 @@
   <a href="https://twitter.com/@kuboids">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://instagram.com">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
 </p>
 
 <h3 align="left">Skills:</h3>
