@@ -1,4 +1,4 @@
-### What's Up? 😎
+### Contact Me:
 <p align="left">
   <a href="https://discordapp.com/users/762782226307350599">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -7,10 +7,6 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
-
-<h3 align="left">Skills:</h3>
-  
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,cpp,java,nodejs,git&perline=3&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=ae,pr,au,ps,ai,vscode,vim,neovim,bash&perline=3&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3 align="left">Stats:</h3>
 
