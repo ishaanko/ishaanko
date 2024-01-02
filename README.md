@@ -1,19 +1,9 @@
-### Contact Me:
-<p align="left">
-  <a href="https://discordapp.com/users/762782226307350599">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://twitter.com/@kuboids">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
+# What's up! 👋
+**I'm Ishaan (he/him)** - I'm a fullstack developer, designer/editor, and high school student based in Washington. I work on projects and compete in programming contests in my free time!
 
-<h3 align="left">Stats:</h3>
+[![SkillIcons](https://skillicons.dev/icons?i=ts,html,css,py,cpp,figma,ae,ps,ai)](https://skillicons.dev)
 
 ![](https://raw.githubusercontent.com/ishaanko/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ishaanko/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/ishaanko/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ishaanko/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-
-
