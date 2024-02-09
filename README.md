@@ -1,5 +1,5 @@
 # What's up! 👋
-**I'm Ishaan (he/him)** - I'm a fullstack developer, robotics enthusiast, designer/editor, and high school student based in Washington. I work on projects and compete in programming contests in my free time!
+**I'm Ishaan (he/him)** - I'm a fullstack developer, robotics enthusiast, and high school student based in Washington. I work on projects and compete in programming contests in my free time!
 
 [![SkillIcons](https://skillicons.dev/icons?i=cpp,java,js,html,css,py,ae,ps,ai)](https://skillicons.dev)
 
