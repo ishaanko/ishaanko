@@ -1,5 +1,5 @@
 # Hi! 👋
-I'm Ishaan - I'm a developer, robotics enthusiast, and high school student based in Washington. 
+I'm Ishaan - I'm a developer, robotics enthusiast, and high school student.
 
 I work on projects and compete in programming contests in my free time!
 
@@ -7,5 +7,3 @@ I work on projects and compete in programming contests in my free time!
 
 ![](https://raw.githubusercontent.com/ishaanko/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ishaanko/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ishaanko/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ishaanko/github-stats/master/generated/languages.svg#gh-light-mode-only)
