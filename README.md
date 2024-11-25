@@ -1,5 +1,7 @@
 # Hi! 👋
-I'm Ishaan - I'm a developer, robotics enthusiast, and high school student based in Washington. I work on projects and compete in programming contests in my free time!
+I'm Ishaan - I'm a developer, robotics enthusiast, and high school student based in Washington. 
+
+I work on projects and compete in programming contests in my free time!
 
 [![SkillIcons](https://skillicons.dev/icons?i=cpp,java,ts,html,css,py)](https://skillicons.dev)
 
